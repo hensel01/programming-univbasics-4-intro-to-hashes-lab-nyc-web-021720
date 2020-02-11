@@ -22,5 +22,5 @@ def read_from_hash(hash, key)
   hash[key]
 end
 
-def updating
+def update_
   
